@@ -236,7 +236,7 @@
         },
         "video_url": {
           "label": "Hintergrundvideo-Link",
-          "info": "Unterstützt YouTube, .MP4 und Vimeo. Nicht alle Funktionen werden von Vimeo unterstützt. [Mehr erfahren](https://archetypethemes.co/blogs/impulse/how-do-i-add-background-videos)"
+          "info": "Unterstützt YouTube, .MP4 und Vimeo."
         },
         "color_border": {
           "label": "Videofarbe",
@@ -850,7 +850,7 @@
         },
         "mega_menu_images": {
           "label": "Mega-Menü-Bilder anzeigen",
-          "info": "[So erstellt man ein Mega-Menü](https://archetypethemes.co/blogs/impulse/how-do-i-create-a-mega-menu)"
+          "info": "[So erstellt man ein Mega-Menü]"
         },
         "main_menu_alignment": {
           "label": "Header-Layout",
@@ -1006,7 +1006,7 @@
         },
         "video_url": {
           "label": "Hintergrundvideo-Link",
-          "info": "Unterstützt YouTube, .MP4 und Vimeo. Nicht alle Funktionen werden von Vimeo unterstützt. [Mehr erfahren](https://archetypethemes.co/blogs/impulse/how-do-i-add-background-videos)"
+          "info": "Unterstützt YouTube, .MP4 und Vimeo. Nicht alle Funktionen werden von Vimeo unterstützt."
         },
         "overlay_opacity": {
           "label": "Textschutz",
@@ -1423,7 +1423,7 @@
         },
         "enable_color_swatches": {
           "label": "Color-Swatches aktivieren",
-          "info": "[Einrichtungsanleitung anzeigen](https://archetypethemes.co/blogs/impulse/how-do-i-set-up-color-swatches)"
+          "info": "[Einrichtungsanleitung anzeigen]"
         },
         "enable_sort": {
           "label": "Sortieroptionen anzeigen"
@@ -1453,7 +1453,7 @@
         "subcollections": {
           "name": "Unterkategorien",
           "settings": {
-            "content": "Hier werden Links zu den Kategorien aus deinem Menü angezeigt. [Mehr erfahren](https://archetypethemes.co/blogs/impulse/how-do-i-create-subcollections)",
+            "content": "Hier werden Links zu den Kategorien aus deinem Menü angezeigt. [Mehr erfahren]",
             "subcollections_per_row": {
               "label": "Unterkategorien pro Zeile"
             }
@@ -1581,7 +1581,7 @@
         },
         "enable_color_swatches": {
           "label": "Color-Swatches aktivieren",
-          "info": "[Einrichtungsanleitung anzeigen](https://archetypethemes.co/blogs/impulse/how-do-i-set-up-color-swatches)"
+          "info": "[Einrichtungsanleitung anzeigen]"
         },
         "per_row": {
           "label": "Produkte pro Zeile"
@@ -3378,7 +3378,7 @@
           }
         },
         "header_product_reviews": "Produktbewertungen",
-        "content": "Füge Bewertungen hinzu, indem du die untenstehende Einstellung aktivierst, die [Shopify-Product-Reviews-App](https://apps.shopify.com/product-reviews) installierst und unsere [Einrichtungsanleitung](https://archetypethemes.co/blogs/support/installing-shopifys-product-reviews-app) befolgst.",
+        "content": "Füge Bewertungen hinzu, indem du die untenstehende Einstellung aktivierst, die [Shopify-Product-Reviews-App](https://apps.shopify.com/product-reviews) installierst und unsere [Einrichtungsanleitung] befolgst.",
         "enable_product_reviews": {
           "label": "Produktrezensionen aktivieren"
         }
@@ -4049,7 +4049,7 @@
         },
         "color_swatches": {
           "label": "Color-Swatches aktivieren",
-          "info": "Erfordert, dass der Typ auf 'Schaltflächen' eingestellt ist. [Erfahren Sie, wie man Farbfelder einrichtet](https://archetypethemes.co/blogs/impulse/how-do-i-set-up-color-swatches)"
+          "info": "Erfordert, dass der Typ auf 'Schaltflächen' eingestellt ist. [Erfahren Sie, wie man Farbfelder einrichtet]"
         },
         "product_dynamic_variants_enable": {
           "label": "Aktivieren Sie dynamische Produktoptionen"
@@ -4219,7 +4219,7 @@
   },
   "lazyload_images": {
     "label": "Bilder faul laden",
-    "info": "Lazy Loading sollte aktiviert werden, wenn sich Abschnittsbilder unterhalb der Falte befinden. [Mehr erfahren](https://archetypethemes.co/blogs/support/what-is-lazyloading)"
+    "info": "Lazy Loading sollte aktiviert werden, wenn sich Abschnittsbilder unterhalb der Falte befinden. [Mehr erfahren]"
   },
   "subheading": {
     "label": "Unter-Überschrift"

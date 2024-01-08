@@ -236,7 +236,7 @@
         },
         "video_url": {
           "label": "Background video link",
-          "info": "Supports YouTube, .MP4 and Vimeo. Not all features supported by Vimeo. [Learn more](https://archetypethemes.co/blogs/impulse/how-do-i-add-background-videos)"
+          "info": "Supports YouTube, .MP4 and Vimeo. Not all features supported by Vimeo."
         },
         "color_border": {
           "label": "Video color",
@@ -850,7 +850,7 @@
         },
         "mega_menu_images": {
           "label": "Show mega menu images",
-          "info": "[How to create a mega menu](https://archetypethemes.co/blogs/impulse/how-do-i-create-a-mega-menu)"
+          "info": "[How to create a mega menu]"
         },
         "main_menu_alignment": {
           "label": "Header layout",
@@ -1006,7 +1006,7 @@
         },
         "video_url": {
           "label": "Background video link",
-          "info": "Supports YouTube, .MP4 and Vimeo. Not all features supported by Vimeo. [Learn more](https://archetypethemes.co/blogs/impulse/how-do-i-add-background-videos)"
+          "info": "Supports YouTube, .MP4 and Vimeo. Not all features supported by Vimeo."
         },
         "overlay_opacity": {
           "label": "Text protection",
@@ -1423,7 +1423,7 @@
         },
         "enable_color_swatches": {
           "label": "Enable color swatches",
-          "info": "[View setup instructions](https://archetypethemes.co/blogs/impulse/how-do-i-set-up-color-swatches)"
+          "info": "[View setup instructions]"
         },
         "enable_sort": {
           "label": "Show sort options"
@@ -1453,7 +1453,7 @@
         "subcollections": {
           "name": "Subcollections",
           "settings": {
-            "content": "Links to collections from your menu will appear here. [Learn more](https://archetypethemes.co/blogs/impulse/how-do-i-create-subcollections)",
+            "content": "Links to collections from your menu will appear here.",
             "subcollections_per_row": {
               "label": "Subcollections per row"
             }
@@ -1581,7 +1581,7 @@
         },
         "enable_color_swatches": {
           "label": "Enable color swatches",
-          "info": "[View setup instructions](https://archetypethemes.co/blogs/impulse/how-do-i-set-up-color-swatches)"
+          "info": "[View setup instructions]"
         },
         "per_row": {
           "label": "Products per row"
@@ -3381,7 +3381,7 @@
           }
         },
         "header_product_reviews": "Product reviews",
-        "content": "Add reviews by enabling the setting below and installing the [Shopify Product Reviews app](https://apps.shopify.com/product-reviews) and following our [setup guide](https://archetypethemes.co/blogs/support/installing-shopifys-product-reviews-app)",
+        "content": "Add reviews by enabling the setting below and installing the [Shopify Product Reviews app](https://apps.shopify.com/product-reviews)",
         "enable_product_reviews": {
           "label": "Enable product reviews"
         }
@@ -4052,7 +4052,7 @@
         },
         "color_swatches": {
           "label": "Enable color swatches",
-          "info": "Requires type to be set to 'Buttons'. [Learn how to set up swatches](https://archetypethemes.co/blogs/impulse/how-do-i-set-up-color-swatches)"
+          "info": "Requires type to be set to 'Buttons'. [Learn how to set up swatches]"
         },
         "product_dynamic_variants_enable": {
           "label": "Enable dynamic product options"
@@ -4222,7 +4222,7 @@
   },
   "lazyload_images": {
     "label": "Lazy load images",
-    "info": "Lazy loading should be enabled when section images are below the fold. [Learn more](https://archetypethemes.co/blogs/support/what-is-lazyloading)"
+    "info": "Lazy loading should be enabled when section images are below the fold. [Learn more]"
   },
   "subheading": {
     "label": "Subheading"

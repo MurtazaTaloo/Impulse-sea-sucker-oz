@@ -1,10 +1,5 @@
 /*
-@license
-  Impulse by Archetype Themes (https://archetypethemes.co)
   Access unminified JS in assets/theme.js
-
-  Use this event listener to run your own JS outside of this file.
-  Documentation - https://archetypethemes.co/blogs/impulse/javascript-events-for-developers
 
   document.addEventListener('page:loaded', function() {
     // Page has loaded and theme assets are ready
@@ -31,9 +26,6 @@ if (theme.config.isTouch) {
   document.documentElement.className += ' supports-touch';
 }
 
-if (console && console.log) {
-  console.log('Impulse theme ('+theme.settings.themeVersion+') by ARCHΞTYPE | Learn more at https://archetypethemes.co');
-}
 
 theme.recentlyViewed = {
   recent: {}, // will store handle+url of recent products
@@ -3204,8 +3196,8 @@ theme.recentlyViewed = {
     var defaults = {
       adaptiveHeight: false,
       autoPlay: false,
-      avoidReflow: false, // custom by Archetype
-      childNav: null, // element. Custom by Archetype instead of asNavFor
+      avoidReflow: false, 
+      childNav: null, 
       childNavScroller: null, // element
       childVertical: false,
       dragThreshold: 7,

@@ -236,7 +236,7 @@
         },
         "video_url": {
           "label": "Enlace al vídeo de fondo",
-          "info": "Es compatible con YouTube, .MP4 y Vimeo. No todas las funciones son compatibles con Vimeo. [Saber más](https://archetypethemes.co/blogs/impulse/how-do-i-add-background-videos)"
+          "info": "Es compatible con YouTube, .MP4 y Vimeo. No todas las funciones son compatibles con Vimeo. [Saber más]"
         },
         "color_border": {
           "label": "Color del vídeo",
@@ -850,7 +850,7 @@
         },
         "mega_menu_images": {
           "label": "Mostrar imágenes del mega menú",
-          "info": "[Cómo crear un megamenú](https://archetypethemes.co/blogs/impulse/how-do-i-create-a-mega-menu)"
+          "info": "[Cómo crear un megamenú]"
         },
         "main_menu_alignment": {
           "label": "Diseño de la cabecera",
@@ -1006,7 +1006,7 @@
         },
         "video_url": {
           "label": "Enlace al vídeo de fondo",
-          "info": "Es compatible con YouTube, .MP4 y Vimeo. No todas las funciones son compatibles con Vimeo. [Saber más](https://archetypethemes.co/blogs/impulse/how-do-i-add-background-videos)"
+          "info": "Es compatible con YouTube, .MP4 y Vimeo. No todas las funciones son compatibles con Vimeo. [Saber más]"
         },
         "overlay_opacity": {
           "label": "Protección del texto",
@@ -1423,7 +1423,7 @@
         },
         "enable_color_swatches": {
           "label": "Activar las muestras de color",
-          "info": "[Ver instrucciones de configuración](https://archetypethemes.co/blogs/impulse/how-do-i-set-up-color-swatches)"
+          "info": "[Ver instrucciones de configuración]"
         },
         "enable_sort": {
           "label": "Mostrar opciones de clasificación"
@@ -1453,7 +1453,7 @@
         "subcollections": {
           "name": "Subcolecciones",
           "settings": {
-            "content": "Los enlaces a las colecciones de su menú aparecerán aquí. [Más información](https://archetypethemes.co/blogs/impulse/how-do-i-create-subcollections)",
+            "content": "Los enlaces a las colecciones de su menú aparecerán aquí. [Más información]",
             "subcollections_per_row": {
               "label": "Subcolecciones por fila"
             }
@@ -1581,7 +1581,7 @@
         },
         "enable_color_swatches": {
           "label": "Activar las muestras de color",
-          "info": "[Ver instrucciones de configuración](https://archetypethemes.co/blogs/impulse/how-do-i-set-up-color-swatches)"
+          "info": "[Ver instrucciones de configuración]"
         },
         "per_row": {
           "label": "Productos por fila"
@@ -3378,7 +3378,7 @@
           }
         },
         "header_product_reviews": "Reseñas de productos",
-        "content": "Añada reseñas habilitando la configuración de abajo e instalando la [aplicación de reseñas de productos de Shopify](https://apps.shopify.com/product-reviews) y siguiendo nuestra [guía de configuración](https://archetypethemes.co/blogs/support/installing-shopifys-product-reviews-app)",
+        "content": "Añada reseñas habilitando la configuración de abajo e instalando la [aplicación de reseñas de productos de Shopify](https://apps.shopify.com/product-reviews) y siguiendo nuestra [guía de configuración]",
         "enable_product_reviews": {
           "label": "Activar revisiones de productos"
         }
@@ -4049,7 +4049,7 @@
         },
         "color_swatches": {
           "label": "Activar las muestras de color",
-          "info": "Es necesario que el tipo esté configurado como 'Botones'. [Aprende a configurar las muestras](https://archetypethemes.co/blogs/impulse/how-do-i-set-up-color-swatches)"
+          "info": "Es necesario que el tipo esté configurado como 'Botones'. [Aprende a configurar las muestras]"
         },
         "product_dynamic_variants_enable": {
           "label": "Habilitar opciones de productos dinámicos"
@@ -4219,7 +4219,7 @@
   },
   "lazyload_images": {
     "label": "Imágenes de carga diferida",
-    "info": "La carga diferida debe estar habilitada cuando las imágenes de la sección están debajo del pliegue. [Más información](https://archetypethemes.co/blogs/support/what-is-lazyloading)"
+    "info": "La carga diferida debe estar habilitada cuando las imágenes de la sección están debajo del pliegue. [Más información]"
   },
   "subheading": {
     "label": "Subtítulo"

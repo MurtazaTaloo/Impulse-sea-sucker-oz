@@ -236,7 +236,7 @@
         },
         "video_url": {
           "label": "Link al video in background",
-          "info": "Supporta YouTube, .MP4 e Vimeo. Non tutte le caratteristiche sono supportate da Vimeo. [Per saperne di più](https://archetypethemes.co/blogs/impulse/how-do-i-add-background-videos)"
+          "info": "Supporta YouTube, .MP4 e Vimeo. Non tutte le caratteristiche sono supportate da Vimeo. [Per saperne di più]"
         },
         "color_border": {
           "label": "Colore video",
@@ -850,7 +850,7 @@
         },
         "mega_menu_images": {
           "label": "Mostra le immagini del mega menu",
-          "info": "[Come creare un mega menu](https://archetypethemes.co/blogs/impulse/how-do-i-create-a-mega-menu)"
+          "info": "[Come creare un mega menu]"
         },
         "main_menu_alignment": {
           "label": "Disposizione dell'intestazione",
@@ -1006,7 +1006,7 @@
         },
         "video_url": {
           "label": "Link al video in background",
-          "info": "Supporta YouTube, .MP4 e Vimeo. Non tutte le caratteristiche sono supportate da Vimeo. [Per saperne di più](https://archetypethemes.co/blogs/impulse/how-do-i-add-background-videos)"
+          "info": "Supporta YouTube, .MP4 e Vimeo. Non tutte le caratteristiche sono supportate da Vimeo. [Per saperne di più]"
         },
         "overlay_opacity": {
           "label": "Protezione del testo",
@@ -1423,7 +1423,7 @@
         },
         "enable_color_swatches": {
           "label": "Abilita i campioni di colore",
-          "info": "[Visualizza le istruzioni di configurazione](https://archetypethemes.co/blogs/impulse/how-do-i-set-up-color-swatches)"
+          "info": "[Visualizza le istruzioni di configurazione]"
         },
         "enable_sort": {
           "label": "Mostra le opzioni di ordinamento"
@@ -1453,7 +1453,7 @@
         "subcollections": {
           "name": "Sottocollezioni",
           "settings": {
-            "content": "I collegamenti alle collezioni dal tuo menu appariranno qui. [Per saperne di più](https://archetypethemes.co/blogs/impulse/how-do-i-create-subcollections)",
+            "content": "I collegamenti alle collezioni dal tuo menu appariranno qui. [Per saperne di più]",
             "subcollections_per_row": {
               "label": "Sottocollezioni per riga"
             }
@@ -1581,7 +1581,7 @@
         },
         "enable_color_swatches": {
           "label": "Abilita i campioni di colore",
-          "info": "[Visualizza le istruzioni di configurazione](https://archetypethemes.co/blogs/impulse/how-do-i-set-up-color-swatches)"
+          "info": "[Visualizza le istruzioni di configurazione]"
         },
         "per_row": {
           "label": "Prodotti per riga"
@@ -3378,7 +3378,7 @@
           }
         },
         "header_product_reviews": "Recensioni del prodotto",
-        "content": "Aggiungi le recensioni abilitando l'impostazione qui sotto e installando [l'applicazione Shopify Product Reviews](https://apps.shopify.com/product-reviews) e seguendo la nostra [guida alla configurazione](https://archetypethemes.co/blogs/support/installing-shopifys-product-reviews-app)",
+        "content": "Aggiungi le recensioni abilitando l'impostazione qui sotto e installando [l'applicazione Shopify Product Reviews](https://apps.shopify.com/product-reviews) e seguendo la nostra [guida alla configurazione]",
         "enable_product_reviews": {
           "label": "Abilita le recensioni dei prodotti"
         }
@@ -4049,7 +4049,7 @@
         },
         "color_swatches": {
           "label": "Abilita i campioni di colore",
-          "info": "Il tipo deve essere impostato su \"Varianti\". [Maggiori informazioni sulla configurazione dei campioni di colore](https://archetypethemes.co/blogs/impulse/how-do-i-set-up-color-swatches)"
+          "info": "Il tipo deve essere impostato su \"Varianti\". [Maggiori informazioni sulla configurazione dei campioni di colore]"
         },
         "product_dynamic_variants_enable": {
           "label": "Abilita opzioni di prodotto dinamiche"
@@ -4219,7 +4219,7 @@
   },
   "lazyload_images": {
     "label": "Caricamento pigro delle immagini",
-    "info": "Il caricamento lento dovrebbe essere abilitato quando le immagini della sezione sono below the fold. [Per saperne di più](https://archetypethemes.co/blogs/support/what-is-lazyloading)"
+    "info": "Il caricamento lento dovrebbe essere abilitato quando le immagini della sezione sono below the fold. [Per saperne di più]"
   },
   "subheading": {
     "label": "Sottotitolo"
