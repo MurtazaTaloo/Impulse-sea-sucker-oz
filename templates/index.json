@@ -121,6 +121,31 @@
             "framed": false
           }
         },
+        "1dddcba0-7648-479d-abea-90e07bdb6dc7": {
+          "type": "banner",
+          "disabled": true,
+          "settings": {
+            "heading": "Banner promotion",
+            "text": "Add the details of your promotion in smaller text",
+            "link": "",
+            "label": "Shop now",
+            "color_tint": "#000000",
+            "color_tint_opacity": 10,
+            "framed": false
+          }
+        },
+        "e8c504c9-a79c-412d-9c4a-43aad50d1b70": {
+          "type": "simple",
+          "settings": {
+            "link": "",
+            "text": "",
+            "width": "50",
+            "height": 300,
+            "color_tint": "#000000",
+            "color_tint_opacity": 8,
+            "framed": false
+          }
+        },
         "e7032669-ab9a-4d92-b992-8070e85091f9": {
           "type": "advanced",
           "settings": {
@@ -164,6 +189,8 @@
       },
       "block_order": [
         "promo-0",
+        "1dddcba0-7648-479d-abea-90e07bdb6dc7",
+        "e8c504c9-a79c-412d-9c4a-43aad50d1b70",
         "e7032669-ab9a-4d92-b992-8070e85091f9",
         "464b8403-faaa-4f60-885a-7489e94d96dd"
       ],
@@ -345,6 +372,36 @@
         "show_button": true,
         "lazyload_images": true
       }
+    },
+    "31146089-167d-47f3-94c2-100f3813d194": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--17116504326398__31146089-167d-47f3-94c2-100f3813d194-image-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "template--17116504326398__31146089-167d-47f3-94c2-100f3813d194-liquid-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17116504326398__31146089-167d-47f3-94c2-100f3813d194-image-1",
+        "template--17116504326398__31146089-167d-47f3-94c2-100f3813d194-liquid-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
     }
   },
   "order": [
@@ -358,6 +415,7 @@
     "featured-collection",
     "background-image-text",
     "blog-posts",
-    "map"
+    "map",
+    "31146089-167d-47f3-94c2-100f3813d194"
   ]
 }
