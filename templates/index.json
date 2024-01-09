@@ -103,47 +103,69 @@
         "promo-0": {
           "type": "advanced",
           "settings": {
-            "subheading": "Limited time",
-            "heading": "Announce your promotion",
-            "textarea": "Include the smaller details of your promotion in text below the title.",
-            "cta_text1": "Shop This",
-            "cta_link1": "shopify:\/\/collections\/all",
-            "cta_text2": "Shop All",
+            "subheading": "",
+            "heading": "No Permanent Changes",
+            "textarea": "Our vacuum mount technology means no permanent alterations to your vehicle. It's all about flexibility and convenience.",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "",
             "cta_link2": "",
-            "video_url": "",
+            "image": "shopify:\/\/shop_images\/Trek_Ebay_400_x_600_px.jpg",
+            "video_url": "https:\/\/youtu.be\/Hd3UKzQYLBE?si=0X0Uje9KNCy6Qv2T",
             "width": "50",
-            "height": 800,
+            "height": 500,
             "text_size": 100,
             "text_align": "vertical-center horizontal-center",
             "color_accent": "rgba(0,0,0,0)",
             "boxed": false,
-            "framed": true
+            "framed": false
           }
         },
-        "promo-1": {
+        "e7032669-ab9a-4d92-b992-8070e85091f9": {
           "type": "advanced",
           "settings": {
             "subheading": "Limited time",
             "heading": "Announce your promotion",
             "textarea": "Include the smaller details of your promotion in text below the title.",
             "cta_text1": "Shop This",
-            "cta_link1": "shopify:\/\/collections\/all",
+            "cta_link1": "",
             "cta_text2": "Shop All",
             "cta_link2": "",
             "video_url": "",
             "width": "50",
             "height": 500,
-            "text_size": 100,
-            "text_align": "vertical-bottom horizontal-center",
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
             "color_accent": "rgba(0,0,0,0)",
-            "boxed": true,
+            "boxed": false,
+            "framed": false
+          }
+        },
+        "464b8403-faaa-4f60-885a-7489e94d96dd": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "Limited time",
+            "heading": "Announce your promotion",
+            "textarea": "Include the smaller details of your promotion in text below the title.",
+            "cta_text1": "Shop This",
+            "cta_link1": "",
+            "cta_text2": "Shop All",
+            "cta_link2": "",
+            "video_url": "",
+            "width": "100",
+            "height": 500,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
             "framed": false
           }
         }
       },
       "block_order": [
         "promo-0",
-        "promo-1"
+        "e7032669-ab9a-4d92-b992-8070e85091f9",
+        "464b8403-faaa-4f60-885a-7489e94d96dd"
       ],
       "settings": {
         "full_width": true,
@@ -151,6 +173,20 @@
         "space_above": false,
         "space_below": false,
         "lazyload_images": true
+      }
+    },
+    "820e64a9-fa9d-4ca9-811e-e4395c6217c7": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Large video with text box",
+        "text": "<p>Pair large text with a full-width video to showcase your brand's lifestyle video or to describe and showcase an important detail of your products.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/youtu.be\/Hd3UKzQYLBE?si=0X0Uje9KNCy6Qv2T",
+        "color_border": "#f4f4f4",
+        "layout": "right",
+        "height": 550
       }
     },
     "featured-collections": {
@@ -195,6 +231,7 @@
         "featured-collections-2",
         "featured-collections-3"
       ],
+      "disabled": true,
       "settings": {
         "title": "Shop by category",
         "divider": false,
@@ -225,40 +262,24 @@
             "framed": false
           }
         },
-        "promo2-1": {
-          "type": "sale_collection",
+        "406834af-e636-4486-b3e4-01a749e36021": {
+          "type": "simple",
           "settings": {
-            "sale_collection": "",
-            "top_text": "Up to",
-            "middle_text": "50% off",
-            "bottom_text": "Select products",
-            "width": "50",
+            "link": "",
+            "text": "",
+            "width": "100",
+            "height": 300,
             "color_tint": "#000000",
-            "color_tint_opacity": 0,
-            "boxed": false,
-            "framed": true
-          }
-        },
-        "promo2-2": {
-          "type": "sale_collection",
-          "settings": {
-            "sale_collection": "",
-            "top_text": "Up to",
-            "middle_text": "50% off",
-            "bottom_text": "Select products",
-            "width": "50",
-            "color_tint": "#000000",
-            "color_tint_opacity": 0,
-            "boxed": false,
-            "framed": true
+            "color_tint_opacity": 8,
+            "framed": false
           }
         }
       },
       "block_order": [
         "promo2-0",
-        "promo2-1",
-        "promo2-2"
+        "406834af-e636-4486-b3e4-01a749e36021"
       ],
+      "disabled": true,
       "settings": {
         "full_width": false,
         "gutter_size": 20,
@@ -269,6 +290,7 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured collection",
         "home_featured_products": "",
@@ -281,6 +303,7 @@
     },
     "background-image-text": {
       "type": "background-image-text",
+      "disabled": true,
       "settings": {
         "subtitle": "Impressive",
         "title": "Large image with text box",
@@ -297,6 +320,7 @@
     },
     "blog-posts": {
       "type": "blog-posts",
+      "disabled": true,
       "settings": {
         "title": "From the journal",
         "blog": "news",
@@ -312,6 +336,7 @@
     },
     "map": {
       "type": "map",
+      "disabled": true,
       "settings": {
         "map_title": "Our retail store",
         "address": "<p>301 Front St W<br>Toronto, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br>Saturday, 8:30am - 10:30pm<br>Sunday, 8:30am - 10:30pm<\/p>",
@@ -327,6 +352,7 @@
     "slideshow",
     "rich-text",
     "promo-grid",
+    "820e64a9-fa9d-4ca9-811e-e4395c6217c7",
     "featured-collections",
     "promo-grid2",
     "featured-collection",
