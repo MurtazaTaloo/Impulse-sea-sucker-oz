@@ -58,6 +58,7 @@
         "slideshow-0",
         "slideshow-1"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "750px",
         "mobile_height": "auto",
@@ -73,6 +74,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "Rich text"
           }
@@ -81,7 +83,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Welcome to SeaSucker Australia, your new destination for revolutionary vehicle outfitting solutions! Born in the USA and now in Australia, we bring you an unparalleled range of vacuum-mounted racks, marine accessories, and camping gear.<\/p>"
           }
         }
       },
