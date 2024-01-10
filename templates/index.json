@@ -111,9 +111,9 @@
             "cta_text2": "",
             "cta_link2": "",
             "image": "shopify:\/\/shop_images\/Trek_Ebay_400_x_600_px.jpg",
-            "video_url": "https:\/\/youtu.be\/Hd3UKzQYLBE?si=0X0Uje9KNCy6Qv2T",
+            "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/990ab1af2ffe47d496f7d3b3ee5bf7b9.mp4",
             "width": "50",
-            "height": 500,
+            "height": 600,
             "text_size": 100,
             "text_align": "vertical-center horizontal-center",
             "color_accent": "rgba(0,0,0,0)",
@@ -210,7 +210,21 @@
         "text": "<p>Pair large text with a full-width video to showcase your brand's lifestyle video or to describe and showcase an important detail of your products.<\/p>",
         "button_label": "",
         "button_link": "",
-        "video_url": "https:\/\/youtu.be\/Hd3UKzQYLBE?si=0X0Uje9KNCy6Qv2T",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/990ab1af2ffe47d496f7d3b3ee5bf7b9.mp4",
+        "color_border": "#f4f4f4",
+        "layout": "right",
+        "height": 550
+      }
+    },
+    "0076ca30-5558-4403-be91-94dd44f40277": {
+      "type": "background-video-text",
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Large video with text box",
+        "text": "<p>Pair large text with a full-width video to showcase your brand's lifestyle video or to describe and showcase an important detail of your products.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/990ab1af2ffe47d496f7d3b3ee5bf7b9.mp4",
         "color_border": "#f4f4f4",
         "layout": "right",
         "height": 550
@@ -410,6 +424,7 @@
     "rich-text",
     "promo-grid",
     "820e64a9-fa9d-4ca9-811e-e4395c6217c7",
+    "0076ca30-5558-4403-be91-94dd44f40277",
     "featured-collections",
     "promo-grid2",
     "featured-collection",
