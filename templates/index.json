@@ -3,17 +3,17 @@
     "17576bb1-5458-4d80-a95c-129616602917": {
       "type": "hero-video",
       "settings": {
-        "title": "SeaSucker Australia: Leading the Vacuum Tech Wave",
-        "title_size": 40,
-        "subheading": "Experience the Power of Suction Innovation",
+        "title": "SeaSucker Australia: Revolutionize Your Adventures!",
+        "title_size": 70,
+        "subheading": "Experience the Power of Suction Innovation with our leading Vacuum Mount Technology",
         "link_text": "",
         "link": "",
         "color_accent": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c7d8f73ca0be4d5d97f9bd317fee1c72.mp4",
         "overlay_opacity": 28,
         "section_height": "650px",
-        "mobile_height": "auto"
+        "mobile_height": "500px"
       }
     },
     "slideshow": {
